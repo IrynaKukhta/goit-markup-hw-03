@@ -78,7 +78,7 @@ a {
   background-color: #2f303a;
 }
 .hero-title {
-  font-family: inherit;
+  font-family: "Roboto";
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
@@ -90,12 +90,19 @@ a {
 .hero-ordering-button {
   background-color: var(--accent-color);
   color: var(--primary-background-color);
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.87;
+  letter-spacing: 0.06em;
   cursor: pointer;
   position: center;
   width: 200px;
   height: 50px;
   left: 700px;
   top: 430px;
+
+  color: #ffffff;
 }
 button.hero-ordering-button:focus,
 button.hero-ordering-button:hover {
