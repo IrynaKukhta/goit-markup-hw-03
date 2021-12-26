@@ -1,2 +1,2 @@
-# goit-markup-hw-02
+# goit-markup-hw-03
 Adding styles for the project
